@@ -47,8 +47,6 @@ The following KPI values are visible in the dashboard screenshot:
   **Average Price per Unit**         **\$45.22**
   **Profit Margin**                   **42.30%**
 
-*These values are transcribed from the provided dashboard screenshot.*
-
 ------------------------------------------------------------------------
 
 ## 📈 Dashboard Analysis
@@ -79,17 +77,10 @@ Approximate values shown in the chart:
 and lower-performing months - Seasonal patterns that may warrant further
 investigation
 
-July is the highest month shown in the chart, at approximately
-**\$95M**, while March is the lowest, at approximately **\$57M**.
-
 ### 2. State-Wise Sales
 
 The U.S. map visual compares sales across states using different shades
 to represent relative performance.
-
-This view can help identify geographic sales concentration and areas
-that may deserve closer review. The screenshot does not provide exact
-state-level values, so individual state rankings are not listed here.
 
 ### 3. Region-Wise Sales
 
@@ -103,9 +94,6 @@ including:
 -   Midwest
 -   East
 
-The chart indicates that regional contributions differ. Use the
-dashboard and its filters to explore the exact values and compare
-regions.
 
 ### 4. Product-Wise Sales
 
@@ -161,10 +149,6 @@ The dashboard includes filters for:
 
 -   January through December
 
-These filters allow users to explore sales performance for selected
-channels, years, and months. KPI cards and charts can be compared as the
-available dashboard filters are changed.
-
 ------------------------------------------------------------------------
 
 ## 🔍 Key Insights
@@ -186,10 +170,6 @@ Based on the values and charts visible in the provided screenshot:
     **\$0.24bn**.
 -   The map and region chart provide geographic views of sales
     performance.
-
-*Monthly and category values are approximate readings from the
-screenshot. State-level values and the precise calculation definitions
-are not visible in the image.*
 
 ------------------------------------------------------------------------
 
@@ -213,9 +193,6 @@ Based on the dashboard views, a business could:
 7.  **Track profit alongside sales** so that decisions consider
     profitability as well as revenue.
 
-These are investigation opportunities suggested by the dashboard, not
-claims about the causes of the observed results.
-
 ------------------------------------------------------------------------
 
 ## 🛠️ Tools & Technologies
@@ -230,9 +207,6 @@ claims about the causes of the observed results.
 -   Dashboard filters and slicers
 -   Sales performance analysis
 -   Data visualization and business analysis
-
-*The exact data preparation steps, data model, and source dataset were
-not provided, so they are not specified here.*
 
 ------------------------------------------------------------------------
 
@@ -251,10 +225,6 @@ A typical workflow for a dashboard of this type can include:
     products, and retailers.
 5.  **Dashboard development** -- arrange KPI cards, charts, maps, and
     interactive filters into a single report page.
-
-*This workflow is a suggested description of the analysis process; it
-should be adjusted to match the steps actually completed in your Power
-BI file.*
 
 ------------------------------------------------------------------------
 
