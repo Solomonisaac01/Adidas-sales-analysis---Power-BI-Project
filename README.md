@@ -260,39 +260,7 @@ BI file.*
 
 ## 📊 Dashboard Preview
 
-Add the dashboard screenshot to the repository and name it
-`Screenshot.png`, then the preview below will display on GitHub.
 
-![Adidas Sales Analysis Dashboard](Screenshot.png)
-
-------------------------------------------------------------------------
-
-## 📂 Project Structure
-
-``` text
-Adidas-Sales-Analysis/
-│
-├── Adidas_Sales_Analysis.pbix
-├── Screenshot.png
-└── README.md
-```
-
-Update the filenames in this section if your actual Power BI report or
-screenshot uses different names.
-
-------------------------------------------------------------------------
-
-## 🚀 How to Use
-
-1.  Clone or download this repository.
-2.  Open `Adidas_Sales_Analysis.pbix` using **Microsoft Power BI
-    Desktop**.
-3.  Navigate to the dashboard/report page.
-4.  Use the **In-store**, **Online**, and **Outlet** filters to explore
-    sales channels.
-5.  Select **2020** or **2021** to explore the available year data.
-6.  Use the month filters to review specific periods.
-7.  Compare KPI cards and visuals to explore sales performance.
 
 ------------------------------------------------------------------------
 
@@ -328,8 +296,3 @@ questions.
 **Solomon Isaac**
 
 Aspiring Data Analyst \| Excel \| SQL \| Python \| Power BI
-
-------------------------------------------------------------------------
-
-⭐ If you find this project useful, consider giving the repository a
-**star** on GitHub.
