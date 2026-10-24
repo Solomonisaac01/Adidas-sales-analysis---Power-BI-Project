@@ -260,7 +260,7 @@ BI file.*
 
 ## 📊 Dashboard Preview
 
-(https://github.com/Solomonisaac01/Adidas-sales-analysis---Power-BI-Project/blob/main/Screenshot.png)
+https://github.com/Solomonisaac01/Adidas-sales-analysis---Power-BI-Project/blob/main/Screenshot.png
 
 ------------------------------------------------------------------------
 
